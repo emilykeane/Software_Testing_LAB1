@@ -18,7 +18,7 @@ public class UserTests {
 		//1-Set up the object and test data, initialise
 		//see the four steps in:
 		
-		String test_username ="ike";
+		String test_username ="mike";
 		String test_password = "passwd";
 		String test_first_name = "Mike";
 		String test_last_name ="Smith";
